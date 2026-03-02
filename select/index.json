@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "反撃の時間はじめ",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-02T18:54:32.488626Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "反撃の時間はじめ",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_反撃の時間はじめ_サンボマスター.txt"
+    }
+  ]
+}
